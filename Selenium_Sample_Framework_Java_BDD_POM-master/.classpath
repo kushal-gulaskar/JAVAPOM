@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Selenium_Sample_Framework-master/eclipse-workspace-1/PageFact_DataDriven_BDD/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-java-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-testng-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/gherkin-6.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kusha/.m2/repository/org/apache/poi/poi-ooxml/3.6/poi-ooxml-3.6.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.poi"/>
+			<attribute name="maven.artifactId" value="poi-ooxml"/>
+			<attribute name="maven.version" value="3.6"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
