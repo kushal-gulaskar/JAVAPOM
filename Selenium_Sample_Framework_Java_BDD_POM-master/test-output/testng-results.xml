@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="114" started-at="2018-11-24T14:32:27Z" finished-at="2018-11-24T14:32:27Z">
+  <suite name="Default suite" duration-ms="140" started-at="2018-11-24T16:38:13Z" finished-at="2018-11-24T16:38:13Z">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.TestRunner@1e88b3c]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="114" started-at="2018-11-24T14:32:27Z" finished-at="2018-11-24T14:32:27Z">
+    <test name="Default test" duration-ms="140" started-at="2018-11-24T16:38:13Z" finished-at="2018-11-24T16:38:13Z">
       <class name="Runner.TestRunner">
-        <test-method status="FAIL" signature="setUpClass()[pri:0, instance:Runner.TestRunner@1e88b3c]" name="setUpClass" is-config="true" duration-ms="69" started-at="2018-11-24T14:32:27Z" finished-at="2018-11-24T14:32:27Z">
+        <test-method status="FAIL" signature="setUpClass()[pri:0, instance:Runner.TestRunner@1e88b3c]" name="setUpClass" is-config="true" duration-ms="91" started-at="2018-11-24T16:38:13Z" finished-at="2018-11-24T16:38:13Z">
           <exception class="java.lang.NoClassDefFoundError">
             <message>
               <![CDATA[gherkin/IGherkinDialectProvider]]>
@@ -58,7 +58,7 @@ at java.lang.ClassLoader.loadClass(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@1e88b3c]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2018-11-24T14:32:27Z" finished-at="2018-11-24T14:32:27Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@1e88b3c]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2018-11-24T16:38:13Z" finished-at="2018-11-24T16:38:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
