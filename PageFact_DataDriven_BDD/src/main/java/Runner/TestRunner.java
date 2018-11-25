@@ -2,11 +2,7 @@ package Runner;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
-import cucumber.runtime.model.CucumberFeature;
 
-
-
-import org.testng.annotations.*;
 
 @CucumberOptions(
 	
